@@ -1,0 +1,18 @@
+﻿
+Game_PlayerAI:
+Gleichstand bei den Repräsentanten auflösen
+KI lernt bisher nur, wenn sie als Speiler 1 gesetzt ist
+Seltener Fehler: manchmal führt die AI ungültige Züge aus und überschreibt ein Feld
+Quelltext-dopplung beim Umwandeln für die DB vermeiden
+
+Game_Main:
+Game- & DecisionHistory ins Game_State auslagern
+
+
+View:
+100Spiele auf einmal Button
+DB löschen Button
+
+schöner, weil als Programm simpler:
+.txt-Datei anstatt DB
+
